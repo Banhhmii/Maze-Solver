@@ -26,7 +26,7 @@ def main():
     # win.wait_for_close()
     
     num_rows = 16
-    num_cols = 16
+    num_cols = 12
     margin = 25
     screen_x = 800
     screen_y = 600
